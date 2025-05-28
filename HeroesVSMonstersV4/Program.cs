@@ -30,11 +30,9 @@ class Program
             {
                 rejoue = false;
             }
-
         }
         Console.Clear();
         Console.WriteLine("See you soon petite perruche");
-
     }
 }
 
